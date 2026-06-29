@@ -1,27 +1,27 @@
 # X Twitter Clone
 
-A Twitter (X) homepage clone built using HTML and Tailwind CSS.
+A clone of the Twitter (X) homepage built using HTML and Tailwind CSS.
+## Features
 
-# Features
-
-- Twitter (X) inspired user interface
-- Left sidebar navigation
-- Middle feed section
-- Right sidebar with suggestions
+- Fully responsive layout
+- Twitter (X) inspired interface
+- Sidebar navigation
+- Feed section
+- "Who to follow" section
+- Dark theme
 - Hover effects
-- Material Icons
-- Clean dark theme
+- Material Symbols icons
 
-# Technologies Used
+## Technologies Used
 
 - HTML5
 - Tailwind CSS
-- CSS
+- CSS3
 - Google Material Symbols
 
-# How to Run
+## How to Run
 
-1. Clone the repository:
+1. Clone the repository.
 
 ```bash
 git clone https://github.com/shaiknazeer-codes/X-twitter-clone.git
@@ -31,13 +31,7 @@ git clone https://github.com/shaiknazeer-codes/X-twitter-clone.git
 
 3. Open `index.html` in your browser.
 
-#  Future Improvements
-
-- Make the website fully responsive.
-- Add JavaScript functionality.
-- Build the project in React.
-
-# 👨‍💻 Author
+## Author
 
 **Shaik Nazeer**
 
